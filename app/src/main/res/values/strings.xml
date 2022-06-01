@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">family chat</string>
+    <string name="setting">setting</string>
+    <string name="group_chat">group chat</string>
+    <string name="log_out">Log out</string>
+    <string name="your_web_client_id">566993936535-efnsoul6ngnvt6iiva16uo9gldujjp3o.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/btn_bg.xml" value="0.29" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/chat_detail_message_bg.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/default_head_image.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/forground.xml" value="0.2" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.29" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1445" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.153" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/imcoming_bubble.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/linear_bg.xml" value="0.29" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/drawable/outcoming_bubble.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/activity_add_friend.xml" value="0.33" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/activity_chat_detail.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/activity_setting.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/activity_signin.xml" value="0.1" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/bg_sender.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/fragment_call.xml" value="0.18541033434650456" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/fragment_chat.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/fragment_status.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/receiver_bubble.xml" value="0.67" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/sender_bubble.xml" value="0.22" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/layout/single_user.xml" value="0.18541033434650456" />
+        <entry key="..\:/Users/zhang/AndroidStudioProjects/familychat/app/src/main/res/menu/chat_menu.xml" value="0.1935185185185185" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

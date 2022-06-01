@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/setting"
+        android:id="@+id/setting"/>
+    <item android:title="@string/group_chat"
+        android:id="@+id/group_chat"/>
+    <item android:title="@string/log_out"
+        android:id="@+id/log_out"/>
+    <item android:title="addFriend"
+        android:id="@+id/addFriend"/>
+</menu>

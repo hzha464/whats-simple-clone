@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566993936535",
+    "project_id": "family-chat-9692c",
+    "storage_bucket": "family-chat-9692c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566993936535:android:70ccf7f7b49d8c952989d2",
+        "android_client_info": {
+          "package_name": "com.example.familychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566993936535-efnsoul6ngnvt6iiva16uo9gldujjp3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnPGJxo7bMWkWrvHKnZlDcuwCGh2uAjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566993936535-efnsoul6ngnvt6iiva16uo9gldujjp3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
